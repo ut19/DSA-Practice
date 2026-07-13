@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ut19/DSA-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ut19/DSA-Practice/tree/master/0169-majority-element) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/ut19/DSA-Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ut19/DSA-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ut19/DSA-Practice/tree/master/0169-majority-element) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/ut19/DSA-Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
 | ------- |
