@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ut19/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ut19/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ut19/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ut19/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ut19/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ut19/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
 ## Simulation
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ut19/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
