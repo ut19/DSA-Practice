@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ut19/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ut19/DSA-Practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/ut19/DSA-Practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ut19/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ut19/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ut19/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ut19/DSA-Practice/tree/master/0075-sort-colors) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ut19/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ut19/DSA-Practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ut19/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ut19/DSA-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ut19/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ut19/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ut19/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ut19/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ut19/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ut19/DSA-Practice/tree/master/0169-majority-element) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ut19/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/ut19/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
