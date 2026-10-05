@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ut19/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ut19/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/ut19/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -113,5 +114,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/ut19/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
