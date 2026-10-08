@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ut19/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ut19/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ut19/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/ut19/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/ut19/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ut19/DSA-Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ut19/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ut19/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ut19/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/ut19/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ut19/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ut19/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ut19/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ut19/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/ut19/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ut19/DSA-Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
