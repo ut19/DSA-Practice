@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ut19/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ut19/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ut19/DSA-Practice/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ut19/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ut19/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ut19/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ut19/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -157,14 +158,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ut19/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ut19/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ut19/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ut19/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
