@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ut19/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ut19/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ut19/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ut19/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/ut19/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ut19/DSA-Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -156,5 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ut19/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
