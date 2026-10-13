@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ut19/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ut19/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ut19/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/ut19/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ut19/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/ut19/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ut19/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ut19/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ut19/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ut19/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ut19/DSA-Practice/tree/master/0904-fruit-into-baskets) |
