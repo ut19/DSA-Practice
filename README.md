@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ut19/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/ut19/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/ut19/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ut19/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/ut19/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ut19/DSA-Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ut19/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0409-longest-palindrome) |
+| [0904-fruit-into-baskets](https://github.com/ut19/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/ut19/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ut19/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ut19/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/ut19/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
