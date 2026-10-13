@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ut19/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ut19/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ut19/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ut19/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ut19/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ut19/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ut19/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ut19/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ut19/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
