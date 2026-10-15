@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ut19/DSA-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ut19/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/ut19/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ut19/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ut19/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ut19/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ut19/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ut19/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ut19/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/ut19/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ut19/DSA-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ut19/DSA-Practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ut19/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ut19/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ut19/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ut19/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ut19/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ut19/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ut19/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ut19/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ut19/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ut19/DSA-Practice/tree/master/0904-fruit-into-baskets) |
