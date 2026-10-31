@@ -206,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ut19/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ut19/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ut19/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ut19/DSA-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
